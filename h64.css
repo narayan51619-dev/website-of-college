@@ -11,7 +11,7 @@ body{
     color:rgb(123, 9, 238) ;
 }
 .bg{
-    background-image: url(/y.avif);
+    background-image: url(y.avif);
     background-size: cover;
     background-position: cover;
     height: 500px;
